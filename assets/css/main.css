@@ -46,7 +46,7 @@ body {
 	transform: scale(1.5);
 }
 #myblog{
-	width: 150px;
+	width: 100px;
 	transition: transform .2s;
 }
 #myblog:hover{
