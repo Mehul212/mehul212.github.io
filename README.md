@@ -1,2 +1,1 @@
-This is my website.
-Go to mehul212.github.io
+<a href="mehul212.github.io">This is my website.</a>
